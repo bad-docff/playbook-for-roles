@@ -2,11 +2,7 @@
 - name: clickhouse
   src: https://github.com/AlexeySetevoi/ansible-clickhouse.git
   scm: git
-  version: 1.11.0 
-- name: nginx
-  src: 
-  scm: git
-  version: master
+  version: 1.11.0
 - name: ligthouse
   src: git@github.com:bad-docff/lighthouse-role.git
   scm: git
